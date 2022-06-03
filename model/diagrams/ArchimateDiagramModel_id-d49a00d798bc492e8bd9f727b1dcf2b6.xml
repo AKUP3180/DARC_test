@@ -77,14 +77,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b2c99e6f732746d8bcc78c7d1e84eef7">
+      id="id-c0a0e7998aad47bfb963ca65eb0c46fe">
     <bounds
-        x="289"
-        y="384"
+        x="823"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationInteraction"
-        href="ApplicationInteraction_id-ecf0b2af938e4e38b1b927d47e4fb481.xml#id-ecf0b2af938e4e38b1b927d47e4fb481"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-28ac501b0b9d4388a337c5e80237a918.xml#id-28ac501b0b9d4388a337c5e80237a918"/>
   </children>
 </archimate:ArchimateDiagramModel>
